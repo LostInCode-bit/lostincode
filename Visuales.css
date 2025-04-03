@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Lol';
+    src: url(media/Minecraft.ttf);
+}
+
+body {
+    background-image: url(Imagenes/lolazo.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+#btn{
+    background: none;
+    border-style: none;
+}
+#Textolol{
+    text-align: justify;
+    font-family: "Lol";
+    color: white;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#caja{
+    background-color: #ffa3b17e;
+    height: auto;
+    width: 25%;
+    border: 2.5%;
+    border-style: dashed;
+    border-color: white;
+    border-radius: 5%;
+    visibility: hidden;
+    align-self: center;
+    padding: "25%";
+}
+#Textolol2{
+    text-align: right;
+    font-family: "Lol";
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
